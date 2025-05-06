@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 6"
-author: Dennis Kulik, Carly Waldeck, Gregory
+author: Dennis Kulik, Carly Waldeck, Gregory Morita
 format: html
 editor: visual
 embed-resources: true
